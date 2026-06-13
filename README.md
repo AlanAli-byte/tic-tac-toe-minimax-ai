@@ -1,5 +1,7 @@
 # Smart Tic-Tac-Toe AI
 
+![Banner](assets/banner.png)
+
 A console-based Tic-Tac-Toe game written in C++ featuring an unbeatable AI powered by the Minimax Algorithm with Alpha-Beta Pruning.
 
 ## Overview

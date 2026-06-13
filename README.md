@@ -31,6 +31,20 @@ The result is an AI that:
 
 ---
 
+## Getting Started
+
+### Compile
+
+```bash
+g++ main.cpp -o tictactoe
+```
+
+### Run
+
+```bash
+./tictactoe
+```
+
 ## Algorithms Used
 
 ### Minimax Algorithm

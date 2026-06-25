@@ -132,7 +132,7 @@ tic-tac-toe-minimax-ai
 
 ## Demo
 
-![Demo](assets/demo1.gif)
+![Demo](assets/demo.gif)
 
 ---
 
